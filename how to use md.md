@@ -59,9 +59,6 @@ if (isAwesome){
 ```
 
 
-def foo():
-    if not bar:
-        return True
 
 
 GitHub 支持 Markdown 中的许多附加功能，它们可以帮助你引用和链接到别人。如果你想对某人发表评论，你可以在他们的名字前加上 @ 符号：Hey @kneath - 爱你的毛衣！
@@ -74,3 +71,40 @@ GitHub 支持 Markdown 中的许多附加功能，它们可以帮助你引用和
 当你在 Issue 的第一条评论中包含任务列表时，你会在 issues 列表中看到一条非常有用的进度条。它也工作在 Pull Requests 上！
 
 还有，当然还可以使用 emoji 表情！:sparkles: :camel: :boom:
+
+## Task Lists（任务列表）
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+如果在 Issue 的第一个评论中包含任务列表，则会在 issue 列表中获得一个便捷的进度指示器。它也适用于 Pull Requests！
+
+## Tables（表格）
+
+你可以通过连字符（-）和竖线（|）来创建一个表格，其中连字符用于分割行，竖线用于分割列：
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+## SHA 引用
+
+对提交的 SHA-1 哈希的任何引用将自动转换为 GitHub 上该提交的链接。
+
+16c999e8c71134401a78d4d46435517b2271d6ac
+mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
+mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
+
+## 在仓库中的 Issue 引用
+
+#1
+mojombo#1
+mojombo/github-flavored-markdown#1
+
+## 删除线
+
+任何使用两个波浪符号包裹的单词（如 ~~ this ~~）会出现删除线。
+
