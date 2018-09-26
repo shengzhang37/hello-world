@@ -95,16 +95,20 @@ Content in the first column | Content in the second column
 对提交的 SHA-1 哈希的任何引用将自动转换为 GitHub 上该提交的链接。
 
 16c999e8c71134401a78d4d46435517b2271d6ac
+
 mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
+
 mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
 
 ## 在仓库中的 Issue 引用
 
 #1
+
 mojombo#1
+
 mojombo/github-flavored-markdown#1
 
 ## 删除线
 
-任何使用两个波浪符号包裹的单词（如 ~~ this ~~）会出现删除线。
+任何使用两个波浪符号包裹的单词（如 ~~this~~ ）会出现删除线。
 
