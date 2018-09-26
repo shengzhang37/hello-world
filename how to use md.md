@@ -60,6 +60,11 @@ if (isAwesome){
 }
 ```
 
+```python3
+def foo():
+    if not bar:
+        return True
+```
 
 
 
