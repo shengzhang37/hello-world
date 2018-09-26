@@ -24,7 +24,7 @@
 
 ![Yaktocat 的图片](https://octodex.github.com/images/yaktocat.png)
 
-![Scubatocat 的图片](https://octodex.github.com/images/scubatocat.png)
+![hulatocat 的动图](https://octodex.github.com/images/hula_loop_octodex03.gif)
 
 
 # 结构化文件
