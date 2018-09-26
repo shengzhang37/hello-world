@@ -24,12 +24,12 @@
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![Yaktocat 的图片](https://octodex.github.com/images/yaktocat.png width="200" height="200" )  |  ![hulatocat 的动图](https://octodex.github.com/images/hula_loop_octodex03.gif width="200" height="200")
+![Yaktocat 的图片](https://octodex.github.com/images/yaktocat.png=250x)  |  ![hulatocat 的动图](https://octodex.github.com/images/hula_loop_octodex03.gif=250x)
 
 
-#![Yaktocat 的图片](https://octodex.github.com/images/yaktocat.png)
+![Yaktocat 的图片](https://octodex.github.com/images/yaktocat.png)
 
-%![hulatocat 的动图](https://octodex.github.com/images/hula_loop_octodex03.gif)
+% ![hulatocat 的动图](https://octodex.github.com/images/hula_loop_octodex03.gif)
 
 
 # 结构化文件
