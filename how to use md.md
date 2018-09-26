@@ -23,12 +23,14 @@
 如果你希望嵌入一张图片，可以这么做：
 
 
-![Yaktocat 的图片](https://octodex.github.com/images/yaktocat.png=250x)  ![hulatocat 的动图](https://octodex.github.com/images/hula_loop_octodex03.gif=250x)
 
 
 ![Yaktocat 的图片](https://octodex.github.com/images/yaktocat.png)
 
-% ![hulatocat 的动图](https://octodex.github.com/images/hula_loop_octodex03.gif)
+![hulatocat 的动图](https://octodex.github.com/images/hula_loop_octodex03.gif)
+
+
+<img src="https://openclipart.org/image/2400px/svg_to_png/28580/kablam-Number-Animals-1.png" width="200"/> <img src="https://openclipart.org/download/71101/two.svg" width="300"/>
 
 
 # 结构化文件
