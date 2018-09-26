@@ -22,9 +22,14 @@
 
 如果你希望嵌入一张图片，可以这么做：
 
-![Yaktocat 的图片](https://octodex.github.com/images/yaktocat.png)
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![Yaktocat 的图片](https://octodex.github.com/images/yaktocat.png width="200" height="200" )  |  ![hulatocat 的动图](https://octodex.github.com/images/hula_loop_octodex03.gif width="200" height="200")
 
-![hulatocat 的动图](https://octodex.github.com/images/hula_loop_octodex03.gif)
+
+#![Yaktocat 的图片](https://octodex.github.com/images/yaktocat.png)
+
+%![hulatocat 的动图](https://octodex.github.com/images/hula_loop_octodex03.gif)
 
 
 # 结构化文件
